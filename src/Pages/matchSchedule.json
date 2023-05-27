@@ -1,0 +1,74 @@
+[
+  {
+    "time": "9:30",
+    "court": "3",
+    "homeClub": "Falcons",
+    "homeLogo": "/static/media/FALCONS.df7dc6d7b8d4eadd8931.png",
+    "hColor": "#730d0d",
+    "awayClub": "Panthers",
+    "awayLogo": "/static/media/PANTHERS.ac41a2360a25f814e402.png",
+    "aColor": "#660f6e",
+    "hGoals": "",
+    "aGoals": ""
+  },
+  {
+    "time": "9:45",
+    "court": "3",
+    "homeClub": "Seahawks",
+    "homeLogo": "/static/media/SEAHAWKS.24b6031b0ff369cb421f.png",
+    "hColor": "#20e63a",
+    "awayClub": "Phoenix",
+    "awayLogo": "/static/media/PHOENIX.714d41b9237be3c02354.png",
+    "aColor": "#071152",
+    "hGoals": "",
+    "aGoals": ""
+  },
+  {
+    "time": "10:15",
+    "court": "3",
+    "homeClub": "Phoenix",
+    "homeLogo": "/static/media/PHOENIX.714d41b9237be3c02354.png",
+    "hColor": "#071152",
+    "awayClub": "Falcons",
+    "awayLogo": "/static/media/FALCONS.df7dc6d7b8d4eadd8931.png",
+    "aColor": "#730d0d",
+    "hGoals": "",
+    "aGoals": ""
+  },
+  {
+    "time": "10:30",
+    "court": "3",
+    "homeClub": "Panthers",
+    "homeLogo": "/static/media/PANTHERS.ac41a2360a25f814e402.png",
+    "hColor": "#660f6e ",
+    "awayClub": "Seahawks",
+    "awayLogo": "/static/media/SEAHAWKS.24b6031b0ff369cb421f.png",
+    "aColor": "#20e63a ",
+    "hGoals": "",
+    "aGoals": ""
+  },
+  {
+    "time": "11:00",
+    "court": "3",
+    "homeClub": "Phoenix",
+    "homeLogo": "/static/media/PHOENIX.714d41b9237be3c02354.png",
+    "hColor": "#071152",
+    "awayClub": "Panthers",
+    "awayLogo": "/static/media/PANTHERS.ac41a2360a25f814e402.png",
+    "aColor": "#660f6e",
+    "hGoals": "",
+    "aGoals": ""
+  },
+  {
+    "time": "11:15",
+    "court": "3",
+    "homeClub": "Falcons",
+    "homeLogo": "/static/media/FALCONS.df7dc6d7b8d4eadd8931.png",
+    "hColor": "#730d0d",
+    "awayClub": "Seahawks",
+    "awayLogo": "/static/media/SEAHAWKS.24b6031b0ff369cb421f.png",
+    "aColor": "#20e63a ",
+    "hGoals": "",
+    "aGoals": ""
+  }
+]
